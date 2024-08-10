@@ -31,7 +31,7 @@ namespace EquaCub
             List<int> div = new List<int>();
             int x1 = 0;
 
-            //Obtendo os divisores positivos e negativos da variável fator
+            //Obtendo os divisores positivos e negativos da variável Fator
             for (int i = 1; i <= fator / 2; i++)
             {
                 if (fator % i == 0)
